@@ -1,0 +1,23 @@
+.col-md-12{
+  height: 100px;
+  background-color: purple;
+  color:#fff;
+}
+.col-md-6{
+  border: 2px solid #000;
+  height: 100px;
+  background-color: green;
+}
+.col-md-3{
+  border: 2px solid #000;
+  height: 100px;
+  background-color: green;
+}
+.container-fluid{
+  height: 50 px;
+  background-color: red;
+}
+.container{
+  height: 50px;
+  background-color: pink;
+}
